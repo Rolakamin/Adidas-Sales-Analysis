@@ -25,8 +25,10 @@ The following Powerbi features were incorporated:
 ## Modelling
 By default, Power BI is set to 'Autodetect new relationships after data is loaded.' However, the automatically generated relationship was disconnected, and a more appropriate relationship was manually created to ensure accurate data modeling.
 
-Adjusted Model          |     Auto-Model
-:--------------------: | :--------------------:
+Auto-Model                 |     Adjusted model
+:------------------------: | :-------------------------------:
+![](auto_model.png)        |   ![](adjusted_model.png)
+
 The model was a Star Schema. 
 There were 3 Dimension Tables and 1 Fact Table. The Fact Table was joined to the Dimension Tables with a many-to-one relationship (*:1).
 
