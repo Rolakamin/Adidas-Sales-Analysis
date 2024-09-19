@@ -10,6 +10,27 @@ This project is a Power BI challenge that analyses Adidas' sales performance fro
 2. What are the most effective sales channels (in-store vs. outlet vs. online)?
 3. How do sales and profitability vary across different regions?
 4. What trends can be identified from the month-over-month changes in sales, profit,operating margin, total transaction and other KPIs?
+
+## Skills/Concepts demonstrated
+
+The following Powerbi features were incorporated:
+- Dax
+- Quick measures
+- Modelling
+- Bookmarking
+- Page Navigation
+- Filters
+- Tooltips
+
+## Modelling
+By default, Power BI is set to 'Autodetect new relationships after data is loaded.' However, the automatically generated relationship was disconnected, and a more appropriate relationship was manually created to ensure accurate data modeling.
+
+Adjusted Model          |     Auto-Model
+:--------------------: | :--------------------:
+The model was a Star Schema. 
+There were 3 Dimension Tables and 1 Fact Table. The Fact Table was joined to the Dimension Tables with a many-to-one relationship (*:1).
+
+
  
 
 
