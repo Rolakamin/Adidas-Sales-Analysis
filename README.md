@@ -37,6 +37,7 @@ It contains 3sheets/tables:
 1.	ADIDAS SALES with 9648 rows and 11 columns
 2.	PRODUCT with 6 rows and 2 columns
 3.	LOCATION with 54 rows and 4 columns
+The dataset can be downladed [Here](https://github.com/Rolakamin/Adidas-Sales-Analysis/blob/main/adidas_%20US%20datasets.xlsx)
 
 
  
