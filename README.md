@@ -55,6 +55,44 @@ After completing data cleaning and transformation, a date table was established 
 - Unit Sold Performance
 - Other Key Performance Indicators (KPIs)
 
+### Date Hierachy and KPI Measures
+
+Key Performance Indicators (KPIs)
+
+The following Key Performance Indicators (KPIs) formed the basis of our analysis:
+1. Total Sales: Sum of all sales transactions, broken down by:
+    - Product
+    - Region
+    - Retailers
+    - Sales Method
+
+2. Total Profit: Sum of profit generated from sales, broken down by :
+   - Region
+   - Sales Method
+   - Product
+
+4. Units Sold: Total number of units sold per product category.
+
+5. Operating Margin: Ratio of operating profit to total sales, expressed as a percentage.
+
+6. Sales Method Performance: Comparison of sales between:
+    - In-store
+    - Online
+    - Outlet channels
+
+7. Total Transactions: Count of all sales transactions recorded.
+
+8. Average Operational Margin: Average operating margin across all product categories.
+
+9. Average Price per Unit: Average selling price per unit for each product category.
+
+Date table and Date Hierachy Measures
+
+To enhance the time-based analysis in this project, `CalendarAuto` function was used to automatically generate a date table. Below are the steps and fields created for year, month, quarter, day and month number
+
+
+
+
 
 
 
