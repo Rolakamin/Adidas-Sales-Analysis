@@ -90,6 +90,29 @@ Date table and Date Hierachy Measures
 
 To enhance the time-based analysis in this project, `CalendarAuto` function was used to automatically generate a date table. Below are the steps and fields created for year, month, quarter, day and month number
 
+Date Table 
+
+![](date_table.png)
+
+Year
+
+![](year.png)
+
+Quarter
+
+![](quarter.png)
+
+Month
+
+![](month.png)
+
+Month Number
+
+![](month_number.png)
+
+Day
+
+![](day.png)
 
 
 
