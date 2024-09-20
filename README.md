@@ -116,7 +116,14 @@ Day
 
 Sales Performance Measures
 
-The following measures evaluate sales performance and growth.
+The following measures evaluate sales performance and growth:
+
+Total Sales 
+
+![](total_sales.png)
+
+
+
 
 
 
