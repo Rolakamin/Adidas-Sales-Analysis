@@ -118,9 +118,30 @@ Sales Performance Measures
 
 The following measures evaluate sales performance and growth:
 
+
 Total Sales 
 
+
 ![](total_sales.png)
+
+Sales MoM
+
+
+![](sales_MoM.png)
+
+Sales YoY
+
+
+![](sales_YoY.png)
+
+
+Units Sold Performance
+
+This section analyzes the number of units sold, providing insights into sales volume and product demand.
+
+
+
+
 
 
 
