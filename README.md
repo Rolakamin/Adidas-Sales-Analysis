@@ -139,6 +139,18 @@ Units Sold Performance
 
 This section analyzes the number of units sold, providing insights into sales volume and product demand.
 
+Total Units Sold
+
+![](total_unit_sold.png)
+
+Unit Sold MoM
+
+![](unit_sold_MoM.png)
+
+Unit Sold YoY
+
+![](unit_sold_YoY.png))
+
 
 
 
