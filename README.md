@@ -39,6 +39,24 @@ It contains 3sheets/tables:
 3.	LOCATION with 54 rows and 4 columns
 The dataset can be downladed [Here](https://github.com/Rolakamin/Adidas-Sales-Analysis/blob/main/adidas_%20US%20datasets.xlsx)
 
+## Data Cleaning and Transformation
+The dataset was cleaned and transformed in Power Query by:
+- Removing blank rows and redundant columns
+- Promoting Column headers
+- Updating field data types to match the appropriate formats(e.g., date, numeric, text)
+- Identifying and addressing outliers
+
+## Data Visualization and Analysis
+After completing data cleaning and transformation, a date table was established to facilitate time-based analysis.This table was grouped into hierarchical categories (Year, Month, Quarter, Day, and Month Number) for efficient filtering. Next, DAX measures were crafted to analyze and visualize critical business performance indicators, including:
+- Total Sales
+- Total Profit
+- Sales Performance
+- Profit Performance
+- Unit Sold Performance
+- Other Key Performance Indicators (KPIs)
+
+
+
 
  
 
