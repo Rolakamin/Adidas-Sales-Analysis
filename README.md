@@ -14,11 +14,10 @@ This project is a Power BI challenge that analyses Adidas' sales performance fro
 ## Skills/Concepts demonstrated
 
 The following Powerbi features were incorporated:
-- Dax
-- Quick measures
-- Modelling
-- Bookmarking
-- Page Navigation
+- Dax Concepts :Date Table Creation using CalendarAuto function, Extraction of year, month, day from Date Table, Calculated Columns, Measures 
+- Data Modelling : Star Schema (*:1)
+- Power Query for data cleaning and transformation
+-callout value conditional formatting for MoMs(Month-Over-Month)
 - Filters
 - Tooltips
 
@@ -31,6 +30,13 @@ Auto-Model                 |     Adjusted model
 
 The model was a Star Schema. 
 There were 3 Dimension Tables and 1 Fact Table. The Fact Table was joined to the Dimension Tables with a many-to-one relationship (*:1).
+
+## Data Source
+The dataset used for this analysis is the "Adidas US Datasets.xlsx" file, which contains detailed information about sales made by the company.
+It contains 3sheets/tables:
+1.	ADIDAS SALES with 9648 rows and 11 columns
+2.	PRODUCT with 6 rows and 2 columns
+3.	LOCATION with 54 rows and 4 columns
 
 
  
