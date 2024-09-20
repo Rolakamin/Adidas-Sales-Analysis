@@ -114,6 +114,10 @@ Day
 
 ![](day.png)
 
+Sales Performance Measures
+
+The following measures evaluate sales performance and growth.
+
 
 
 
