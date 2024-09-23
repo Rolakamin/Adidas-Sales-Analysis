@@ -178,6 +178,23 @@ The following measures evaluate transaction volume and growth.
 Total Transactions
 
 
+![](total_transactions.png)
+
+
+Transaction MoM
+
+
+![](transaction_MoM.png)
+
+
+Transaction YoY
+
+
+![](transaction_YoY.png)
+
+
+
+
 
 
 
