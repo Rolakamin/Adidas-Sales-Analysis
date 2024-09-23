@@ -1,6 +1,7 @@
 # Adidas-Sales-Analysis
 
 ![](adidas_store_image.jpg)
+***
 
 ## Introduction
 This project is a Power BI challenge that analyses Adidas' sales performance from 2020 to 2021. The objective is to gain comprehensive insights into Adidas' sales trends across various product categories, sales channels, geographic regions, and other significant aspects of the data. The analysis leverages key performance indicators (KPIs) such as total sales, total profit, total units sold, average operating margin, total transactions, average price per unit, and month-over-month (MoM) trends. The goal is to identify patterns, provide data-driven insights for better inventory management, develop strategies to boost sales and make informed recommendations to enhance Adidas' overall business performance.
@@ -17,7 +18,7 @@ The following Powerbi features were incorporated:
 - Dax Concepts :Date Table Creation using CalendarAuto function, Extraction of year, month, day from Date Table, Calculated Columns, Measures 
 - Data Modelling : Star Schema (*:1)
 - Power Query for data cleaning and transformation
--callout value conditional formatting for MoMs(Month-Over-Month)
+- Colour - Callout value conditional formatting for MoMs(Month-Over-Month)
 - Filters
 - Tooltips
 
@@ -42,7 +43,7 @@ The dataset can be downladed [Here](https://github.com/Rolakamin/Adidas-Sales-An
 ## Data Cleaning and Transformation
 The dataset was cleaned and transformed in Power Query by:
 - Removing blank rows and redundant columns
-- Promoting Column headers
+- Promoting headers
 - Updating field data types to match the appropriate formats(e.g., date, numeric, text)
 - Identifying and addressing outliers
 
@@ -57,147 +58,150 @@ After completing data cleaning and transformation, a date table was established 
 
 ### Date Hierachy and KPI Measures
 
-Key Performance Indicators (KPIs)
+**Key Performance Indicators (KPIs)**
 
-The following Key Performance Indicators (KPIs) formed the basis of our analysis:
-1. Total Sales: Sum of all sales transactions, broken down by:
-    - Product
-    - Region
-    - Retailers
-    - Sales Method
+The following _**Key Performance Indicators**_ (KPIs) formed the basis of our analysis:
 
-2. Total Profit: Sum of profit generated from sales, broken down by :
-   - Region
-   - Sales Method
-   - Product
+ **Total Sales** : Sum of all sales transactions, broken down by:
+-  Product
+-  Region
+-  Retailers
+-  Sales Method
 
-4. Units Sold: Total number of units sold per product category.
+ **Total Profit** : Sum of profit generated from sales, broken down by:
+ - Region
+ - Sales Method
+ - Product
 
-5. Operating Margin: Ratio of operating profit to total sales, expressed as a percentage.
+ **Units Sold** : Total number of units sold per product category.
 
-6. Sales Method Performance: Comparison of sales between:
-    - In-store
-    - Online
-    - Outlet channels
+ **Operating Margin** : Ratio of operating profit to total sales, expressed as a percentage.
 
-7. Total Transactions: Count of all sales transactions recorded.
+ **Sales Method Performance** : Comparison of sales between:
+ - In-store
+ - Online
+ - Outlet channels
 
-8. Average Operational Margin: Average operating margin across all product categories.
+ **Total Transactions** : Count of all sales transactions recorded.
 
-9. Average Price per Unit: Average selling price per unit for each product category.
+ **Average Operating Margin** : Average operating margin across all product categories.
 
-Date table and Date Hierachy Measures
+ **Average Price per Unit** : Average selling price per unit for each product category.
+ 
+    
+
+**Date table and Date Hierachy Measures**
 
 To enhance the time-based analysis in this project, `CalendarAuto` function was used to automatically generate a date table. Below are the steps and fields created for year, month, quarter, day and month number
 
-Date Table 
+**Date Table**
 
 ![](date_table.png)
 
-Year
+**Year**
 
 ![](year.png)
 
-Quarter
+**Quarter**
 
 ![](quarter.png)
 
-Month
+**Month**
 
 ![](month.png)
 
-Month Number
+**Month Number**
 
 ![](month_number.png)
 
-Day
+**Day**
 
 ![](day.png)
 
-Sales Performance Measures
+**Sales Performance Measures**
 
 The following measures evaluate sales performance and growth:
 
 
-Total Sales 
+**Total Sales** 
 
 
 ![](total_sales.png)
 
 
-Sales MoM
+**Sales MoM**
 
 
 ![](sales_MoM.png)
 
 
-Sales YoY
+**Sales YoY**
 
 
 ![](sales_YoY.png)
 
 
-Units Sold Performance
+**Units Sold Performance Measures**
 
 This section analyzes the number of units sold, providing insights into sales volume and product demand.
 
-Total Units Sold
+**Total Units Sold**
 
 
 ![](total_unit_sold.png)
 
 
-Unit Sold MoM
+**Unit Sold MoM**
 
 
 ![](unit_sold_MoM.png)
 
 
-Unit Sold YoY
+**Unit Sold YoY**
 
 
 ![](unit_sold_YoY.png))
 
 
-Profit Performance
+**Profit Performance Measures**
 
 This section analyzes the company's ability to generate profits by measuring key metrics that impact overall profitability and reveal how effectively sales are converted into profit.
 
-Total Profit
+**Total Profit**
 
 
 ![](total_profit.png)
 
 
-Profit MoM
+**Profit MoM**
 
 
 ![](profit_MoM.png)
 
 
-Profit YoY
+**Profit YoY**
 
 
 ![](profit_YoY.png)
 
 
-Transaction Performance
+**Transaction Performance Measures**
 
 The following measures evaluate transaction volume and growth.
 
-Total Transactions
+**Total Transactions**
 
 
 ![](total_transactions.png)
 
 
-Transaction MoM
+**Transaction MoM**
 
 
 ![](transaction_MoM.png)
 
 
-Transaction YoY
+**Transaction YoY**
 
 
 ![](transaction_YoY.png)
@@ -205,16 +209,21 @@ Transaction YoY
 
 Other notable performance highlights include the month-over-month (MoM) changes in average price per unit and average operating margin.
 
-Average Price Per Unit MoM
+**Average Price Per Unit MoM**
 
 
 ![](avg_price_per_unit_MoM.png)
 
 
-Average Operating Margin MoM
+**Average Operating Margin MoM**
 
 
 ![](avg_operating_margin_MoM.png)
+
+
+### Data Visualization
+The report is presented on one page 
+You can view the dashboard here 
 
 
 
