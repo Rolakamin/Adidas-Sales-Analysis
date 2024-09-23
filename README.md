@@ -156,7 +156,7 @@ Profit Performance
 
 This section analyzes the company's ability to generate profits by measuring key metrics that impact overall profitability and reveal how effectively sales are converted into profit.
 
-Total profit
+Total Profit
 
 
 ![](total_profit.png)
@@ -170,6 +170,14 @@ Profit MoM
 Profit YoY
 
 ![](profit_YoY.png)
+
+
+Transaction Performance
+The following measures evaluate transaction volume and growth.
+
+Total Transactions
+
+
 
 
 
