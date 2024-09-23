@@ -124,10 +124,12 @@ Total Sales
 
 ![](total_sales.png)
 
+
 Sales MoM
 
 
 ![](sales_MoM.png)
+
 
 Sales YoY
 
@@ -141,13 +143,18 @@ This section analyzes the number of units sold, providing insights into sales vo
 
 Total Units Sold
 
+
 ![](total_unit_sold.png)
+
 
 Unit Sold MoM
 
+
 ![](unit_sold_MoM.png)
 
+
 Unit Sold YoY
+
 
 ![](unit_sold_YoY.png))
 
@@ -164,15 +171,18 @@ Total Profit
 
 Profit MoM
 
+
 ![](profit_MoM.png)
 
 
 Profit YoY
 
+
 ![](profit_YoY.png)
 
 
 Transaction Performance
+
 The following measures evaluate transaction volume and growth.
 
 Total Transactions
@@ -191,6 +201,20 @@ Transaction YoY
 
 
 ![](transaction_YoY.png)
+
+
+Other notable performance highlights include the month-over-month (MoM) changes in average price per unit and average operating margin.
+
+Average Price Per Unit MoM
+
+
+![](avg_price_per_unit_MoM.png)
+
+
+Average Operating Margin MoM
+
+
+![](avg_operating_margin_MoM.png)
 
 
 
