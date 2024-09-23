@@ -1,4 +1,4 @@
-# Adidas-Sales-Analysis
+j# Adidas-Sales-Analysis
 
 ![](adidas_store_image.jpg)
 
@@ -150,6 +150,14 @@ Unit Sold MoM
 Unit Sold YoY
 
 ![](unit_sold_YoY.png))
+
+
+Profit Performance
+
+This section analyzes the company's ability to generate profits by measuring key metrics that impact overall profitability and reveal how effectively sales are converted into profit.
+
+Total profit
+
 
 
 
