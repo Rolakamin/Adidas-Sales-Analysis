@@ -1,4 +1,4 @@
-j# Adidas-Sales-Analysis
+# Adidas-Sales-Analysis
 
 ![](adidas_store_image.jpg)
 
@@ -157,6 +157,21 @@ Profit Performance
 This section analyzes the company's ability to generate profits by measuring key metrics that impact overall profitability and reveal how effectively sales are converted into profit.
 
 Total profit
+
+
+![](total_profit.png)
+
+
+Profit MoM
+
+![](profit_MoM.png)
+
+
+Profit YoY
+
+![](profit_YoY.png)
+
+
 
 
 
