@@ -21,6 +21,8 @@ The following Powerbi features were incorporated:
 - Colour - Callout value conditional formatting for MoMs(Month-Over-Month)
   e.g Colour - Callout Value Formatting for **Average Operating Margin MoM**
   
+  ![](https://github.com/Rolakamin/Adidas-Sales-Analysis/blob/main/colour_%20callout_value_sales_MoM.png)
+  
 - Filters
 - Tooltips
 
