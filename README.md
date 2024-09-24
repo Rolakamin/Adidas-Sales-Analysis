@@ -229,7 +229,7 @@ Other notable performance highlights include the month-over-month (MoM) changes 
 
 The report is presented on one page 
 
-You can view the dashboard [here](https://github.com/Rolakamin/Adidas-Sales-Analysis/blob/main/adidas_sales_dashboard.png)
+You can view the dashboard [here](https://github.com/Rolakamin/Adidas-Sales-Analysis/blob/main/adidas_sales_dashboard%20.png)
 
 
 
