@@ -19,6 +19,8 @@ The following Powerbi features were incorporated:
 - Data Modelling : Star Schema (*:1)
 - Power Query for data cleaning and transformation
 - Colour - Callout value conditional formatting for MoMs(Month-Over-Month)
+  e.g Colour - Callout Value Formatting for **Average Operating Margin MoM**
+  
 - Filters
 - Tooltips
 
