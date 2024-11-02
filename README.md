@@ -248,6 +248,29 @@ You can view the dashboard [here](https://github.com/Rolakamin/Adidas-Sales-Anal
 -	In 2020, West Gear was the leading retailer, with $90 million in sales, while Kohl’s had the lowest sales at $1 million.
 -	In 2021, Foot Locker became the top-performing retailer, achieving $177 million in sales, while Walmart had the lowest sales at $42 million.
 -	Over both years, West Gear and Foot Locker collectively held the highest sales figures, with $243 million and $220.09 million in total sales, respectively.
+
+**Top Product Categories**
+
+- Men’s Street Footwear consistently led in both sales and profit across the two years, while Women’s Athletic Footwear had the lowest sales and profit. This suggests strong demand for men's streetwear products, 
+  whereas there may be an opportunity to increase sales in the women's athletic footwear category.
+
+**Regional Sales Performance**
+- West and Northeast regions ranked as the top two regions in both sales and profitability, while the Midwest consistently recorded the lowest figures. This highlights the need for targeted strategies to boost 
+  performance in lower-performing regions.
+
+**Monthly Sales and Profit Trends**
+
+- In 2020, April recorded the highest sales and profit, with $24.61 million and $9.30 million, respectively. The lowest sales were observed in December ($8.03 million) and June ($8.83 million), with the lowest 
+  profits in June ($2.29 million) and December ($2.71 million).
+- In 2021, July and December saw peak performance, with sales reaching $78.33 million and $77.82 million, respectively, and profits at $29.14 million and $28.88 million, respectively.
+
+  ## Conclusion
+
+
+  ## Recommendations
+
+ 
+
  
 
 
