@@ -231,6 +231,27 @@ The report is presented on one page
 
 You can view the dashboard [here](https://github.com/Rolakamin/Adidas-Sales-Analysis/blob/main/adidas_sales_dashboard%20.png)
 
+## Findings and Observations
+
+**Overall Transactions and Operating Margin**
+
+- From 2020 to 2021, Adidas recorded a total of 9,650 transactions, with an average operating margin of 42.30%.
+
+**Yearly Sales and Profit Summary**
+
+- 2020: A total of 462,350 units were sold, generating $182.08 million in sales and a profit of $63.38 million. The West region led in both sales and profit, with $76.90 million in sales and $24.47 million in profit, while the Midwest region had the lowest sales and profit, at $7.38 million and $2.67 million, respectively.
+
+- 2021: Sales performance saw a notable increase, with 2.02 million units sold, resulting in $717.82 million in total sales and $268.76 million in profit. The West region again recorded the highest sales ($193.05 million) and profit ($65.14 million), while the South had the lowest sales ($119.21 million), and the Southeast recorded the lowest profit ($48.39 million).
+
+**Top-Performing Retailers**
+
+-	In 2020, West Gear was the leading retailer, with $90 million in sales, while Kohl’s had the lowest sales at $1 million.
+-	In 2021, Foot Locker became the top-performing retailer, achieving $177 million in sales, while Walmart had the lowest sales at $42 million.
+-	Over both years, West Gear and Foot Locker collectively held the highest sales figures, with $243 million and $220.09 million in total sales, respectively.
+ 
+
+
+
 
 
 
