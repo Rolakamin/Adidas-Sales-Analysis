@@ -1,5 +1,21 @@
 # Adidas-Sales-Analysis
 
+## Table of Contents
+
+1.  [Introduction](#introduction)
+2.  [Problem Statement](#problem-statement)
+3.  [Skills Demonstrated](#skills-demonstrated)
+4.  [Modelling](#modelling)
+5.  [Data Source](#data-source)
+6.  [Data Cleaning and Transformation](#data-cleaning-and-transformation)
+7.  [Data Visualization and Analysis](#data-visualization-and-analysis)
+8.  [Findings and Observations](#findings-and-observations)
+9.  [Conclusion](#conclusion)
+10. [Recommendations](#recommendations)
+   
+    
+    
+
 ![](adidas_store_image.jpg)
 ***
 
@@ -12,7 +28,7 @@ This project is a Power BI challenge that analyses Adidas' sales performance fro
 3. How do sales and profitability vary across different regions?
 4. What trends can be identified from the month-over-month changes in sales, profit,operating margin, total transaction and other KPIs?
 
-## Skills/Concepts demonstrated
+## Skills Demonstrated
 
 The following Powerbi features were incorporated:
 - Dax Concepts :Date Table Creation using CalendarAuto function, Extraction of year, month, day from Date Table, Calculated Columns, Measures 
@@ -24,7 +40,6 @@ The following Powerbi features were incorporated:
   ![](https://github.com/Rolakamin/Adidas-Sales-Analysis/blob/main/colour_%20callout_value_sales_MoM.png)
   
 - Filters
-- Tooltips
 
 ## Modelling
 By default, Power BI is set to 'Autodetect new relationships after data is loaded.' However, the automatically generated relationship was disconnected, and a more appropriate relationship was manually created to ensure accurate data modeling.
