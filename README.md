@@ -4,7 +4,7 @@
 
 1.  [Introduction](#introduction)
 2.  [Problem Statement](#problem-statement)
-3.  [Skills Demonstrated](#skills-demonstrated)
+3.  [Skills/Concepts Demonstrated](#skillsconcepts-demonstrated)
 4.  [Modelling](#modelling)
 5.  [Data Source](#data-source)
 6.  [Data Cleaning and Transformation](#data-cleaning-and-transformation)
@@ -28,7 +28,7 @@ This project is a Power BI challenge that analyses Adidas' sales performance fro
 3. How do sales and profitability vary across different regions?
 4. What trends can be identified from the month-over-month changes in sales, profit,operating margin, total transaction and other KPIs?
 
-## Skills Demonstrated
+## Skills/Concepts Demonstrated
 
 The following Powerbi features were incorporated:
 - Dax Concepts :Date Table Creation using CalendarAuto function, Extraction of year, month, day from Date Table, Calculated Columns, Measures 
