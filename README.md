@@ -267,10 +267,27 @@ You can view the dashboard [here](https://github.com/Rolakamin/Adidas-Sales-Anal
 ## Conclusion
 
 This analysis of Adidas' sales from 2020 to 2021 provides important insights into the company’s performance across product categories, regions, sales channels, and time periods. There was a substantial increase in both total sales and total profit from 2020 to 2021, with the West region consistently emerging as the top contributor in terms of sales and profit.
+
 Men’s Street Footwear was identified as the best-selling and most profitable product category, while in-store sales proved to be the most effective channel for both revenue generation and profitability. The findings also highlighted regional differences, with the Midwest region underperforming compared to other regions. Monthly trends revealed peak sales and profits during specific months like April, July, and December, which can guide Adidas in planning for seasonal demand.
-Additionally, the month-over-month (MoM) trends provided valuable insights into seasonal fluctuations in sales, which can help inform inventory and marketing strategies. Overall, this analysis offers a strong foundation for data-driven decision-making, enabling Adidas to optimize inventory, refine sales approaches, and enhance overall business performance.
+
+Additionally, the month-over-month (MoM) trends provided valuable insights into seasonal fluctuations in sales, which can help inform inventory and marketing strategies. 
+Overall, this analysis offers a strong foundation for data-driven decision-making, enabling Adidas to optimize inventory, refine sales approaches, and enhance overall business performance.
 
 ## Recommendations
+
+- Expand the Men’s Street Footwear line, which performed well, and boost underperforming products like Women’s Athletic Footwear with targeted marketing or design updates.
+
+- Improve the in-store experience (e.g., exclusive promotions, personalized service) to build on its success and consider opening more stores in high-performing areas like the West.
+
+- Adjust inventory levels for high-demand months (April, July, December) and regions to prevent stockouts and reduce excess stock, saving costs and enhancing customer satisfaction.
+
+- Strengthen partnerships with top retailers like West Gear through co-marketing or exclusive products, and look for ways to boost sales with lower-performing retailers.
+
+- Increase targeted marketing efforts in regions with lower sales, like the Midwest and South, to better connect with local customers.
+
+- Use seasonal sales trends to guide marketing, with strong campaigns around peak months and new launches or promotions during slower periods to smooth out sales throughout the year.
+
+
 
 
  
