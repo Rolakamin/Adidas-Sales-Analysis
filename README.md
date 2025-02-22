@@ -1,4 +1,4 @@
-jh# Adidas-Sales-Analysis
+# Adidas-Sales-Analysis
 
 ## Table of Contents
 
