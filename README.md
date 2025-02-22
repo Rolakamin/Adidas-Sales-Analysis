@@ -300,7 +300,7 @@ Overall, this analysis offers a strong foundation for data-driven decision-makin
 
 - Increase targeted marketing efforts in regions with lower sales, like the Midwest and South, to better connect with local customers.
 
-- Use seasonal sales trends to guide marketing, with strong campaigns around peak months and new launches or promotions during slower periods to smooth out sales throughout the yea
+- Use seasonal sales trends to guide marketing, with strong campaigns around peak months and new launches or promotions during slower periods to smooth out sales throughout the year
 
 
 
